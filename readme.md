@@ -1,13 +1,13 @@
 Exploring the world of deterministic chaos.
 
-# Mandelbrot set visualized:
+# Mandelbrot set:
 
 ![Example colored Mandlebrot](mandelbrot.png)
 
-# Lorenz' "butterfly"
+# Lorenz attractor
 
 ![Lorenz system](lorenz.png)
 
 # Double pendulum
 
-Coming soon.
+![Double pendulum](double_pendulum.gif)
