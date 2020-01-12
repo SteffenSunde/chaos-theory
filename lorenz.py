@@ -51,11 +51,10 @@ for i in range(1,N):
 # Plot static figure and rotate plot for visualization
 fig = plt.figure()
 ax = fig.add_subplot(111, projection='3d')
-fig.suptitle("Lorenz' \"butterfly\"")
 ax.plot(y[0, :], y[1, :], y[2, :], color="red", linewidth=0.2)
 
 # Save figure
-# plt.savefig("lorenz.png")
+plt.savefig("lorenz.png", bbox_inches="tight")
 
 # Static plot
 plt.show()
