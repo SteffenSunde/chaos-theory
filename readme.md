@@ -2,7 +2,7 @@ Exploring the world of deterministic chaos.
 
 # Mandelbrot set visualized:
 
-![Example colored Mandlebrot](example.png)
+![Example colored Mandlebrot](mandelbrot.png)
 
 # Lorenz' "butterfly"
 
