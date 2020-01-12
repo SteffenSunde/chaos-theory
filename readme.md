@@ -1,7 +1,13 @@
-With interests in chaos theory, a quick and dirty 
-plotter for [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set)
-is made.
+Exploring the world of deterministic chaos.
 
-# Example:
+# Mandelbrot set visualized:
 
 ![Example colored Mandlebrot](example.png)
+
+# Lorenz' "butterfly"
+
+![Lorenz system](lorenz.png)
+
+# Double pendulum
+
+Coming soon.
